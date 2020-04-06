@@ -1,0 +1,19 @@
+
+CREATE DATABASE [IF NOT EXISTS] tiplay CHARACTER SET 'utf8';
+
+CREATE TABLE [IF NOT EXISTS] player
+(
+    id SMALLINT UNSIGNED NOT NULL AUTO_INCREMENT,
+    pseudo VARCHAR(20) NOT NULL,
+    sexe CHAR(1),
+    nom VARCHAR(20) NOT NULL,
+    prenom VARCHAR(20) NOT NULL,
+    date_naissance DATETIME NOT NULL,
+    creation_date DATETIME NOT NULL,
+    security_key VARCHAR(255) NOT NULL,
+    code_postale INT,
+    pays VARCHAR(25) NOT NULL DEFAULT 'France',
+    adresse VARCHAR(250),
+    PRIMARY KEY (id)
+)
+ENGINE=INNODB;

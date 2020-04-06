@@ -1,0 +1,31 @@
+<?xml version='1.0' standalone='yes'?>
+<players>
+    <player id="0" role="ADMINISTRATOR" time="03/03/2020 12:00">
+        <information>
+            <nom>admin</nom>
+            <prenom>admin</prenom>
+            <pseudo>CPT</pseudo>
+            <date_of_brith format="d/m/Y">03/03/2020</date_of_brith>
+            <sexe>none</sexe>
+        </information>
+        <gamePlayed>
+            <game name="Test" date="03/03/2020 12:00">
+                <team number="1">Computers</team>
+                <classement total="1">1</classement>
+            </game>
+        </gamePlayed>
+        <tournaments>
+            <tournament id="TL-1" date="03/03/2020 13:00" total_Team="1" type="mixed" game="Test">  
+                <team number="1">Computers</team>
+                <classement total="1">1</classement>
+                <reward team_reward="false">Une nouvelle souris</reward>
+            </tournament>
+        </tournaments>
+        <registred>
+            <partie id="TL-1" date="03/03/2020 12:50" price="2" unite="EUR">
+                <pay_methode>Paypal</pay_methode>
+                <pay_id>TL-1%admin</pay_id>
+            </partie>
+        </registred>
+    </player>
+</players>

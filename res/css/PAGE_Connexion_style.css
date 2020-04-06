@@ -1,0 +1,499 @@
+.A2, .A4, .A5, .A6  {
+  width: 100%;
+  height: 32px;
+}
+@media only all and (min-width: 481px) {
+  .A2, .A4, .A5, .A6 {
+    width: 100%;
+    height: 32px;
+  }
+}
+@media only all and (min-width: 841px) {
+  .A2, .A4, .A5, .A6 {
+    width: 100%;
+    height: 32px;
+  }
+}
+#A1 {
+  min-width: 380px;
+}
+td#A1,
+#A1 > tbody > tr > td,
+#A1 > tr > td {
+  width: 380px;
+}
+@media only all and (min-width: 481px) {
+  #A1 {
+    min-width: 380px;
+  }
+  td#A1,
+  #A1 > tbody > tr > td,
+  #A1 > tr > td {
+    width: 380px;
+  }
+}
+@media only all and (min-width: 841px) {
+  #A1 {
+    min-width: 664px;
+  }
+  td#A1,
+  #A1 > tbody > tr > td,
+  #A1 > tr > td {
+    width: 664px;
+  }
+}
+#A3,
+#A3 > .wbBtnSpan {
+  min-width: 294px;
+}
+td#A3,
+#A3 > tbody > tr > td,
+#A3 > tr > td {
+  width: 294px;
+}
+@media only all and (min-width: 481px) {
+  #A3,
+  #A3 > .wbBtnSpan {
+    min-width: 294px;
+  }
+  td#A3,
+  #A3 > tbody > tr > td,
+  #A3 > tr > td {
+    width: 294px;
+  }
+}
+@media only all and (min-width: 841px) {
+  #A3,
+  #A3 > .wbBtnSpan {
+    min-width: 294px;
+  }
+  td#A3,
+  #A3 > tbody > tr > td,
+  #A3 > tr > td {
+    width: 294px;
+  }
+}
+:root {
+  font-size: 100%;
+}
+form {
+  max-width: 1200px;
+}
+body {
+  padding: 0;
+}
+.pos1 {
+  clear: both;
+  float: left;
+  margin: 0;
+  display: inline;
+  width: 100%;
+  min-height: 600px;
+  height: auto !important;
+  height: 600px;
+}
+#page,
+.pos2 {
+  clear: both;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  float: none;
+  min-height: 600px;
+  height: auto !important;
+  height: 600px;
+  width: 100%;
+}
+.pos3,
+.pos4 {
+  clear: both;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  padding-top: 0;
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  float: none;
+  width: 100%;
+  min-height: 594px;
+  height: auto !important;
+  height: 594px;
+}
+.pos5 {
+  clear: both;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  padding: 3px 0;
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  float: none;
+  width: 100%;
+  min-height: 597px;
+  height: auto !important;
+  height: 597px;
+}
+.pos6 {
+  clear: both;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 10.229645%;
+  padding-top: 124px;
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  float: none;
+  min-height: initial;
+  height: auto !important;
+  -ms-transition: opacity 300ms ease 0ms;
+  -moz-transition: opacity 300ms ease 0ms;
+  -webkit-transition: opacity 300ms ease 0ms;
+  -o-transition: opacity 300ms ease 0ms;
+  transition: opacity 300ms ease 0ms;
+  width: 79.331942%;
+  min-width: 379.9px;
+  max-width: 380px;
+}
+.pos7 {
+  clear: both;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 19.206681%;
+  padding-top: 167px;
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  float: none;
+  min-height: 199px;
+  height: auto !important;
+  height: 199px;
+  -ms-transition: opacity 300ms ease 0ms;
+  -moz-transition: opacity 300ms ease 0ms;
+  -webkit-transition: opacity 300ms ease 0ms;
+  -o-transition: opacity 300ms ease 0ms;
+  transition: opacity 300ms ease 0ms;
+  width: 61.377871%;
+  max-width: 1225px;
+  
+}
+
+.pos8 {
+  clear: both;
+  margin-right: 0;
+  margin-bottom: 0;
+  margin-left: 19.206681%;
+  padding-top: 3%;
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  float: none;
+  min-height: 168px;
+  height: auto !important;
+  height: 168px;
+  -ms-transition: opacity 300ms ease 0ms;
+  -moz-transition: opacity 300ms ease 0ms;
+  -webkit-transition: opacity 300ms ease 0ms;
+  -o-transition: opacity 300ms ease 0ms;
+  transition: opacity 300ms ease 0ms;
+  width: 61.377871%;
+  min-width: 293.9px;
+  max-width: 294px;
+}
+@media only all and (min-width: 481px) {
+  :root {
+    font-size: 100%;
+  }
+  form {
+    max-width: 1200px;
+    min-width: 0;
+  }
+  body {
+    padding: 0;
+  }
+  .pos1 {
+    clear: both;
+    float: left;
+    margin: 0;
+    display: inline;
+    padding: 0;
+    width: 100%;
+    min-width: 0;
+    max-width: none;
+    min-height: 600px;
+    height: auto !important;
+    height: 600px;
+  }
+  #page,
+  .pos2 {
+    clear: both;
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    float: none;
+    min-height: 600px;
+    height: auto !important;
+    height: 600px;
+    width: 100%;
+    min-width: 0;
+  }
+  .pos3,
+  .pos4 {
+    clear: both;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 0;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    float: none;
+    width: 100%;
+    min-width: 0;
+    max-width: none;
+    min-height: 594px;
+    height: auto !important;
+    height: 594px;
+  }
+  .pos5 {
+    clear: both;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding: 3px 0;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    float: none;
+    width: 100%;
+    min-width: 0;
+    max-width: none;
+    min-height: 597px;
+    height: auto !important;
+    height: 597px;
+  }
+  .pos6 {
+    clear: both;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 10.416667%;
+    padding-top: 124px;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    float: none;
+    min-height: initial;
+    height: auto !important;
+    -ms-transition: opacity 300ms ease 0ms;
+    -moz-transition: opacity 300ms ease 0ms;
+    -webkit-transition: opacity 300ms ease 0ms;
+    -o-transition: opacity 300ms ease 0ms;
+    transition: opacity 300ms ease 0ms;
+    width: 79.166667%;
+    min-width: 379.9px;
+    max-width: 380px;
+  }
+  .pos7 {
+    clear: both;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 19.375%;
+    padding-top: 167px;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    float: none;
+    min-height: 199px;
+    height: auto !important;
+    height: 199px;
+    -ms-transition: opacity 300ms ease 0ms;
+    -moz-transition: opacity 300ms ease 0ms;
+    -webkit-transition: opacity 300ms ease 0ms;
+    -o-transition: opacity 300ms ease 0ms;
+    transition: opacity 300ms ease 0ms;
+    width: 61.25%;
+    min-width: 0;
+    max-width: 295px;
+  }
+  .pos8 {
+    clear: both;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 19.375%;
+    padding-top: 9px;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    float: none;
+    min-height: 168px;
+    height: auto !important;
+    height: 168px;
+    -ms-transition: opacity 300ms ease 0ms;
+    -moz-transition: opacity 300ms ease 0ms;
+    -webkit-transition: opacity 300ms ease 0ms;
+    -o-transition: opacity 300ms ease 0ms;
+    transition: opacity 300ms ease 0ms;
+    width: 61.25%;
+    min-width: 294px;
+    max-width: 294px;
+  }
+}
+@media only all and (min-width: 841px) {
+  :root {
+    font-size: 100%;
+  }
+  form {
+    max-width: 1200px;
+    min-width: 0;
+    margin: 0 auto !important;
+  }
+  body {
+    padding: 0;
+  }
+  .pos1 {
+    clear: both;
+    float: left;
+    margin: 0;
+    display: inline;
+    padding: 0;
+    width: 100%;
+    min-width: 0;
+    max-width: none;
+    min-height: 600px;
+    height: auto !important;
+    height: 600px;
+  }
+  #page,
+  .pos2 {
+    clear: both;
+    margin: 0;
+    padding: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    float: none;
+    min-height: 600px;
+    height: auto !important;
+    height: 600px;
+    width: 100%;
+    min-width: 0;
+  }
+  .pos3,
+  .pos4 {
+    clear: both;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 0;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    float: none;
+    width: 100%;
+    min-width: 0;
+    max-width: none;
+    min-height: 594px;
+    height: auto !important;
+    height: 594px;
+  }
+  .pos5 {
+    clear: both;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding: 3px 0.119332%;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    float: none;
+    width: 100%;
+    min-width: 0;
+    max-width: none;
+    min-height: 597px;
+    height: auto !important;
+    height: 597px;
+  }
+  .pos6 {
+    clear: both;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 10.381862%;
+    padding-top: 124px;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    float: none;
+    min-height: initial;
+    height: auto !important;
+    -ms-transition: opacity 300ms ease 0ms;
+    -moz-transition: opacity 300ms ease 0ms;
+    -webkit-transition: opacity 300ms ease 0ms;
+    -o-transition: opacity 300ms ease 0ms;
+    transition: opacity 300ms ease 0ms;
+    width: 79.236277%;
+    min-width: 663.9px;
+    max-width: 664px;
+  }
+  .pos7 {
+    clear: both;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 32.458234%;
+    padding-top: 167px;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    float: none;
+    min-height: 199px;
+    height: auto !important;
+    height: 199px;
+    -ms-transition: opacity 300ms ease 0ms;
+    -moz-transition: opacity 300ms ease 0ms;
+    -webkit-transition: opacity 300ms ease 0ms;
+    -o-transition: opacity 300ms ease 0ms;
+    transition: opacity 300ms ease 0ms;
+    width: 35.083532%;
+    min-width: 0;
+    max-width: 294px;
+  }
+  .pos8 {
+    clear: both;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 32.458234%;
+    padding-top: 12px;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    float: none;
+    min-height: 168px;
+    height: auto !important;
+    height: 168px;
+    -ms-transition: opacity 300ms ease 0ms;
+    -moz-transition: opacity 300ms ease 0ms;
+    -webkit-transition: opacity 300ms ease 0ms;
+    -o-transition: opacity 300ms ease 0ms;
+    transition: opacity 300ms ease 0ms;
+    width: 35.083532%;
+    min-width: 293.9px;
+    max-width: 294px;
+  }
+}

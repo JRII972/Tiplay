@@ -1,0 +1,54 @@
+.body-center{
+    width: 1200px !important;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.navBar{
+    color: #fff;
+    text-decoration: none;
+    padding-top: 0.25rem !important;
+    padding-bottom: 0.25rem !important;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.mobileMenu{
+    display: none;      
+}
+
+.navBarButton-icon{
+    
+    height: 35px;
+    width: 35px;
+    
+}
+
+
+@media only all and (max-width: 1200px){
+    .body-center{
+        width: 800px !important;
+    }
+    
+
+}
+
+@media only all and (max-width: 800px){
+    .mobileMenu{
+        display: contents;
+        
+    }
+    .body-center{
+        width: auto;
+        display: contents;
+    }
+
+    .body-center p{
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+}
