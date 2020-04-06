@@ -11,10 +11,12 @@
     <link rel="canonical" href="https://getbootstrap.com/docs/4.4/examples/product/">
 
     <!-- Bootstrap core CSS -->
-<link href="./res/css/bootstrap.min.css" rel="stylesheet" >
-<link href="./res/css/standar.css" rel="stylesheet">
+<link href="../res/css/bootstrap.min.css" rel="stylesheet" >
+<link href="../res/css/standar.css" rel="stylesheet">
 
- 
+  function openStream(videoID, platform)  {
+
+  }
 
 
     <style>
@@ -34,7 +36,7 @@
       }
     </style>
     <!-- Custom styles for this template -->
-    <link href="./res/css/product.css" rel="stylesheet">
+    <link href="../res/css/product.css" rel="stylesheet">
   </head>
   <body>
     <nav class="site-header sticky-top py-1" style="width: 100%;">
@@ -79,7 +81,7 @@
             <h2 class="display-5">TIPLAY Parties</h2>
             <p class="lead">Prouvez que vous êtes le meillieur</p>
           </div>
-          <div class="bg-light shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0; background-image: url('./res/img/fifa_banière.jpg') ; 
+          <div class="bg-light shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0; background-image: url('../res/img/fifa_banière.jpg') ; 
         background-size: cover; background-position: center; background-repeat: no-repeat;"></div>
         </div>
       </div>
@@ -90,14 +92,14 @@
 Quis Lorem aliqua nulla esse et consequat reprehenderit sunt cillum labore excepteur adipisicing sunt. Nisi excepteur incididunt et aliquip cillum laborum incididunt minim laboris duis fugiat ut officia mollit. Ut veniam ut laboris aute in exercitation qui.        
       </p>
       
-      
+      <form action="./stream.php" method="get"><input type="submit" name="id" value="GNjStWG2vLU"></form>
         <div class="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
           <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
             <div class="my-3 p-3">
-              <h2 class="display-5">Comming soon</h2>
+              <h2 class="display-5">Baima</h2>
               <p class="lead">Bientôt</p>
             </div>
-            <div class="bg-white shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0; background-image: url('./res/img/coming soon.jpg') ; 
+            <div class="bg-white shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0; background-image: url('../res/img/coming soon.jpg') ; 
         background-size: cover; background-position: center; background-repeat: no-repeat;"></div>
           </div>
           <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
@@ -105,7 +107,7 @@ Quis Lorem aliqua nulla esse et consequat reprehenderit sunt cillum labore excep
               <h2 class="display-5">Comming soon</h2>
               <p class="lead">Bientôt</p>
             </div>
-            <div class="bg-white shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0; background-image: url('./res/img/coming soon.jpg') ; 
+            <div class="bg-white shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0; background-image: url('../res/img/coming soon.jpg') ; 
           background-size: cover; background-position: center; background-repeat: no-repeat;"></div>
           </div>
         </div>
@@ -116,7 +118,7 @@ Quis Lorem aliqua nulla esse et consequat reprehenderit sunt cillum labore excep
               <h2 class="display-5">Comming soon</h2>
               <p class="lead">Bientôt</p>
             </div>
-            <div class="bg-white shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0; background-image: url('./res/img/coming soon.jpg') ; 
+            <div class="bg-white shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0; background-image: url('../res/img/coming soon.jpg') ; 
           background-size: cover; background-position: center; background-repeat: no-repeat;"></div>
           </div>
           <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
@@ -124,7 +126,7 @@ Quis Lorem aliqua nulla esse et consequat reprehenderit sunt cillum labore excep
               <h2 class="display-5">Comming soon</h2>
               <p class="lead">Bientôt</p>
             </div>
-            <div class="bg-white shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0; background-image: url('./res/img/coming soon.jpg') ; 
+            <div class="bg-white shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0; background-image: url('../res/img/coming soon.jpg') ; 
           background-size: cover; background-position: center; background-repeat: no-repeat;"></div>
           </div>
         </div>

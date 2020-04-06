@@ -1,4 +1,4 @@
-</body>
+  </body>
 <footer class="container py-5">
   <div class="row">
     <div class="col-12 col-md">
@@ -6,17 +6,17 @@
       <small class="d-block mb-3 text-muted">&copy; 2019-2020</small>
       <a href="https://www.instagram.com/tiplaymq/" target="_blank">
         <svg class="icon" width="35" height="35">
-          <use xlink:href="./res/img/svg/standar.svg#instagram"></use>
+          <use xlink:href="../res/img/svg/standar.svg#instagram"></use>
         </svg>
       </a>
       <a href="https://www.facebook.com/tiplaymq/" target="_blank">
         <svg class="icon" width="35" height="35">
-          <use xlink:href="./res/img/svg/standar.svg#facebook" ></use>
+          <use xlink:href="../res/img/svg/standar.svg#facebook" ></use>
         </svg>
       </a>
       <a href="https://www.twitch.com/tiplaymq/" target="_blank">
         <svg class="icon" width="35" height="35">
-          <use xlink:href="./res/img/svg/standar.svg#twitch" ></use>
+          <use xlink:href="../res/img/svg/standar.svg#twitch" ></use>
         </svg>
       </a>
     </div>

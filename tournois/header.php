@@ -6,13 +6,13 @@
     <meta name="description" content="Organisateur de tournois d'E-Sport en Martinique.">
     
     <meta name="generator" content="Jekyll v3.8.6">
-    <title>Test · TIPLAY</title>
+    <title>Live · TIPLAY</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/4.4/examples/product/">
 
     <!-- Bootstrap core CSS -->
-<link href="./res/css/bootstrap.min.css" rel="stylesheet" >
-<link href="./res/css/standar.css" rel="stylesheet">
+<link href="../res/css/bootstrap.min.css" rel="stylesheet" >
+<link href="../res/css/standar.css" rel="stylesheet">
 
  
 
@@ -34,7 +34,7 @@
       }
     </style>
     <!-- Custom styles for this template -->
-    <link href="./res/css/product.css" rel="stylesheet">
+    <link href="../res/css/product.css" rel="stylesheet">
   </head>
   <body>
     <nav class="site-header sticky-top py-1" style="width: 100%;">
@@ -44,9 +44,9 @@
         </a>
         <a class="py-2 d-none d-md-inline-block" href="#">Evénements</a>
         <a class="py-2 d-none d-md-inline-block" href="./tournois/lobi.php">Tournois</a>
-        <a class="py-2 d-none d-md-inline-block" href="./partenaire">Partenaire</a>
-        <a class="py-2 d-none d-md-inline-block" href="./support">Support</a>
-        <a class="py-2 d-none d-md-inline-block" href="./contact">Contact</a>
+        <a class="py-2 d-none d-md-inline-block" href="./partenaire.html">Partenaire</a>
+        <a class="py-2 d-none d-md-inline-block" href="./support.html">Support</a>
+        <a class="py-2 d-none d-md-inline-block" href="./contact.html">Contact</a>
         <a class="py-2 d-none d-md-inline-block"  href="./tournois/live.html">
           <div style="display: flex; flex-direction: row; align-content: center;">
             Live
