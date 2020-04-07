@@ -10,7 +10,7 @@
             <h2 class="display-5">TIPLAY Parties</h2>
             <p class="lead">Prouvez que vous êtes le meillieur</p>
           </div>
-          <div class="bg-light shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0; background-image: url('./res/img/fifa_banière.jpg') ; 
+          <div class="bg-light shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0; background-image: url('../res/img/fifa_banière.jpg') ; 
         background-size: cover; background-position: center; background-repeat: no-repeat;"></div>
         </div>
       </div>
@@ -28,7 +28,7 @@ Quis Lorem aliqua nulla esse et consequat reprehenderit sunt cillum labore excep
               <h2 class="display-5">Comming soon</h2>
               <p class="lead">Bientôt</p>
             </div>
-            <div class="bg-white shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0; background-image: url('./res/img/coming soon.jpg') ; 
+            <div class="bg-white shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0; background-image: url('../res/img/coming soon.jpg') ; 
         background-size: cover; background-position: center; background-repeat: no-repeat;"></div>
           </div>
           <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
@@ -36,7 +36,7 @@ Quis Lorem aliqua nulla esse et consequat reprehenderit sunt cillum labore excep
               <h2 class="display-5">Comming soon</h2>
               <p class="lead">Bientôt</p>
             </div>
-            <div class="bg-white shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0; background-image: url('./res/img/coming soon.jpg') ; 
+            <div class="bg-white shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0; background-image: url('../res/img/coming soon.jpg') ; 
           background-size: cover; background-position: center; background-repeat: no-repeat;"></div>
           </div>
         </div>
@@ -47,7 +47,7 @@ Quis Lorem aliqua nulla esse et consequat reprehenderit sunt cillum labore excep
               <h2 class="display-5">Comming soon</h2>
               <p class="lead">Bientôt</p>
             </div>
-            <div class="bg-white shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0; background-image: url('./res/img/coming soon.jpg') ; 
+            <div class="bg-white shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0; background-image: url('../res/img/coming soon.jpg') ; 
           background-size: cover; background-position: center; background-repeat: no-repeat;"></div>
           </div>
           <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
@@ -55,7 +55,7 @@ Quis Lorem aliqua nulla esse et consequat reprehenderit sunt cillum labore excep
               <h2 class="display-5">Comming soon</h2>
               <p class="lead">Bientôt</p>
             </div>
-            <div class="bg-white shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0; background-image: url('./res/img/coming soon.jpg') ; 
+            <div class="bg-white shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0; background-image: url('../res/img/coming soon.jpg') ; 
           background-size: cover; background-position: center; background-repeat: no-repeat;"></div>
           </div>
         </div>
