@@ -1,4 +1,7 @@
-<?php 
+<?php
+
+/* $xmlPartie = simplexml_load_file(__DIR__.DIRECTORY_SEPARATOR.'data'.DIRECTORY_SEPARATOR.'xml'.DIRECTORY_SEPARATOR.'partie.xml'); */
+
   require('../src/header.php') ?>
 
     <div class="body-center">
@@ -21,7 +24,15 @@
 Quis Lorem aliqua nulla esse et consequat reprehenderit sunt cillum labore excepteur adipisicing sunt. Nisi excepteur incididunt et aliquip cillum laborum incididunt minim laboris duis fugiat ut officia mollit. Ut veniam ut laboris aute in exercitation qui.        
       </p>
       
-      
+      <?php /*
+          foreach ($xmlPartie->partie as $partie) {
+              $name = $partie->nom;
+              $date = DateTime::createFromFormat(trim($partie->horaire[0]['format']," \t\r\n\x0b"),trim($partie->horaire," \t\r\n\x0b"));
+              $description = $partie->description;
+              $price = (float)$partie->prix;
+              $img = $partie->image;
+        */
+?>
         <div class="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
           <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
             <div class="my-3 p-3">

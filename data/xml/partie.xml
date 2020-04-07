@@ -10,21 +10,21 @@
         <nom>Call Of Duty : End of War</nom>
         <horaire format="d/m/Y H:i">07/03/2020 16:30</horaire>
         <description>Partie entre copain sur un classique de la licence</description>
-        <image>img\partie\Boisson-Pipi-croate.jpg</image>
+        <image>\res\img\partie\Boisson-Pipi-croate.jpg</image>
     </partie>
     <partie id="3">
         <nom>APEX Legend</nom>
         <horaire format="d/m/Y H:i">07/03/2020 16:30</horaire>
         <description>Partie entre copain sur un classique de la licence</description>
         <prix unite="EUR">2.00</prix>
-        <image>\img\partie\Boisson-Pipi-croate.jpg</image>
+        <image>\res\img\partie\Boisson-Pipi-croate.jpg</image>
     </partie>
     <partie id="4">
         <nom>Dragon Ball Z : Figther</nom>
         <horaire format="d/m/Y H:i">07/03/2020 17:00</horaire>
         <description>Partie entre copain sur un classique de la licence</description>
         <prix unite="EUR">2.00</prix>
-        <image>\img\partie\Boisson-Pipi-croate.jpg</image>
+        <image>\res\img\partie\Boisson-Pipi-croate.jpg</image>
     </partie>
     <partie id="5">
         <nom>FIFA 14</nom>
@@ -37,21 +37,21 @@
         <horaire format="d/m/Y H:i">07/03/2020 18:00</horaire>
         <description>Partie entre copain sur un classique de la licence</description>
         <prix unite="EUR">2.00</prix>
-        <image>\img\partie\Boisson-Pipi-croate.jpg</image>
+        <image>\res\img\partie\Boisson-Pipi-croate.jpg</image>
     </partie>*
     <partie id="6">
         <nom>Dofus</nom>
         <horaire format="d/m/Y H:i">07/03/2020 18:00</horaire>
         <description>Partie entre copain sur un classique de la licence</description>
         <prix unite="EUR">2.00</prix>
-        <image>\img\partie\Boisson-Pipi-croate.jpg</image>
+        <image>\res\img\partie\Boisson-Pipi-croate.jpg</image>
     </partie>
     <partie id="7">
         <nom>Tournois COD Black Ops III</nom>
         <horaire format="d/m/Y H:i">07/03/2020 18:30</horaire>
         <description>Partie entre copain sur un classique de la licence</description>
         <prix unite="EUR">2.50</prix>
-        <image>\img\partie\Boisson-Pipi-croate.jpg</image>
+        <image>\res\img\partie\Boisson-Pipi-croate.jpg</image>
     </partie>
     <partie id="8">
         <nom>Tournois FIFA 14</nom>
