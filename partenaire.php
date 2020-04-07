@@ -1,9 +1,9 @@
 <?php
-require('header.php');
+require('./src/header.php');
 ?>
 
 
 
 <?php
-require('footer.php');
+require('./src/footer.php');
 ?>

@@ -3,7 +3,7 @@ if(!empty($_GET)){
     $videoId = $_GET['id'];
 }
 
-require('./header.php')
+require('../src/header.php')
 ?>
 
 <div class="body-center">
@@ -54,5 +54,5 @@ require('./header.php')
 </div>
 
 <?php
-require('./footer.php')
+require('../src/footer.php')
 ?>
